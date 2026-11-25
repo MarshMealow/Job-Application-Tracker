@@ -2,6 +2,8 @@
 
 Keep one Excel row per job application. A scheduled Codex chat checks Gmail for confirmations and employer replies, updates the workbook, and writes a short daily summary. An iPhone Shortcut sends that summary to a chosen WhatsApp contact.
 
+Read [How I designed the job tracker](ARCHITECTURE.md) for the architecture diagram, MCP tools, agent choice, scheduling, and token usage.
+
 ## Set up your tracker
 
 1. Connect your Gmail account in Codex. Use a local Codex chat on a Mac with access to your files.
