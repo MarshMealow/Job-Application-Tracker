@@ -1,6 +1,6 @@
 # How I designed the job tracker
 
-I wanted to answer two questions each evening: which applications changed today, and what should I tell my brother? An application can generate several emails, and some jobs I enter by hand. That led to the first design decision: **one Excel row represents one application**. A confirmation creates or matches a row. A later interview invitation, offer, or rejection updates that same row.
+I designed the tracker to identify daily changes in application status and summarize them for a designated recipient. An application can generate several emails, and some jobs I enter by hand. That led to the first design decision: **one Excel row represents one application**. A confirmation creates or matches a row. A later interview invitation, offer, or rejection updates that same row.
 
 ## How an update moves through the system
 
