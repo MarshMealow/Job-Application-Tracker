@@ -19,7 +19,3 @@ Tell the tracker chat “I applied for the Support Analyst role at Example Compa
 The **Needs review** tab holds messages that need your judgment. If two roles at the same company could match a reply, identify the correct role in the tracker chat. When a date is unknown, leave it blank.
 
 The dated text file contains only the message for the recipient. The workbook and review questions stay private. The daily cleanup keeps seven calendar days of drafts.
-
-## Put this template on GitHub
-
-Create a repository named `job-application-tracker` and upload the contents of this folder at its root, including the `templates` directory. Keep the workbook in that directory blank when sharing the project.
